@@ -1,5 +1,5 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader BHARAT  ™",
+    "name": "𝐓𝐞𝐱𝐭 Uploader ABHI  ™",
     "description": "Download videos from various websites using this telegram bot",
     "logo": "https://envs.sh/srE.jpg",
     "keywords": [
@@ -12,15 +12,15 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "23664819",
+            "description": "3670291",
             "required": true
         },
         "API_HASH": {
-            "description": "3853f97c662d5d08cee5f0d07361361e",
+            "description": "1f55b2e9d972c3a5ac3f008c51ed7a4a",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your bot token",
+            "description": "7545498255:AAE6-l7q9j76rC1qpT7_3G_QN_FstKtMMM4",
             "required": true
         }
     },
